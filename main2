@@ -1,5 +1,0 @@
-import 'dart:io';
-
-void main() {
-  print("안녕하세요! Dart 쇼핑몰입니다.");
-}
